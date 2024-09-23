@@ -1,5 +1,5 @@
 :root {
-    --bgcolor: radial-gradient(circle at 100%, green, yellow 50%, coral 75%); 
+    --bgcolor: radial-gradient(circle at 100%, green, yellow 50%, coral); 
     --butonscris: 20px;
     --butonlatime: 95px;
     --butoninaltime: 45px;
@@ -19,7 +19,7 @@
     background-position: center;
 
     
-    animation: antetBg 5s linear infinite;
+    animation: antetbg 5s infinite;
     
     position: relative;
 }
